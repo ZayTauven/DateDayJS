@@ -1,4 +1,5 @@
 Création du projet N.Js:
 npm init -y 
 
+Biblithèques 
 npm install express body-paser mysql2.moment 
